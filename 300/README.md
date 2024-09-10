@@ -12,4 +12,16 @@ Enter your prompt in the textbox where it says "Enter a prompt here".
 
 Example: "Which end is the top of an egg, the wide end  or the narrow end?"
 
+Click **Submit**.
+
+
+
+The response can differ, but this is what we got:
+
+,,,
+The wide end of an egg is the top.
+
+This is because the air cell, which is a small pocket of air between the inner and outer shell membranes, is located at the wide end. When stored with the wide end up, the air cell remains at the top, preventing it from coming into contact with the yolk and reducing the risk of spoilage.
+,,,
+
 MORE
