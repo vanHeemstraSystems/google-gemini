@@ -21,7 +21,7 @@ The response can differ, but this is what we got:
 ```
 The wide end of an egg is the top.
 
-This is because the air cell, which is a small pocket of air between the inner and outer shell membranes, is located at the wide end. When stored with the wide end up, the air cell remains at the top, preventing it from coming into contact with the yolk and reducing the risk of spoilage.
+This is because the air cell, which is a small pocket of air between the inner and outer shell membranes,<br/> is located at the wide end. When stored with the wide end up, the air cell remains at the top, preventing it from coming into contact with the yolk and reducing the risk of spoilage.
 ```
 
 MORE
