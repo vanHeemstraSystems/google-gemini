@@ -5,6 +5,8 @@ google-gemini
 
 Based on "What's New" at chrome://whats-new/
 
+Based on "Google Gemini" at https://gemini.google.com/
+
 ![Screenshot 2024-09-10 at 09 32 53](https://github.com/user-attachments/assets/ae98807f-0c33-4ba0-a490-ed5149838822)
 
 ## 100 - Introduction
