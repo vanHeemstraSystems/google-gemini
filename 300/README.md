@@ -14,7 +14,7 @@ Example: "Which end is the top of an egg, the wide end  or the narrow end?"
 
 Click **Submit**.
 
-
+![Screenshot 2024-09-10 at 09 49 13](https://github.com/user-attachments/assets/96b77e4b-4fd0-45bd-9ae9-bab17020d72f)
 
 The response can differ, but this is what we got:
 
